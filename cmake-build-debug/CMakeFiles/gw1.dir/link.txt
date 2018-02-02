@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/gw1.dir/main.cpp.o CMakeFiles/gw1.dir/Personnel.cpp.o CMakeFiles/gw1.dir/Student.cpp.o CMakeFiles/gw1.dir/Database.cpp.o  -o gw1 
